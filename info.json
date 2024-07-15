@@ -1,17 +1,17 @@
 {
     "OWNER_IDS": [
-        166692371981926400
+        956672579664506880
     ],
-    "TOKEN": "Your Bot Token Here",
-    "BotName": "robi",
-    "serverLink": "https://discord.gg/encoders",
-    "wh_cl": "Webhook1",
-    "wh_bl": "Webhook2",
-    "statusText": ".help",
+    "TOKEN": "MTI2MjU1MjkwODk4NjA2MDg2MA.GQugVJ.2UwWWOyrICKtbHZWTPyr4ht33LMzf0QX_IH-Tw",
+    "BotName": "WANTED - Assistant",
+    "serverLink": "https://discord.gg/aTHRHpPWPV",
+    "wh_cl": "https://discord.com/api/webhooks/1262557801989800038/mkRivHNjBoCpfOKkuVEkuVqLdfoS1eXG_l6L1xBV6ElvRcZygsvhu9LUj5n-ig1SYnjY",
+    "wh_bl": "https://discord.com/api/webhooks/1262557906520244234/FDzrWERNZFyYvvkeJGiPEgO3dQigAakl200vVLxp6JzfawWAijeh-jZfnQk2XUJaaQWI",
+    "statusText": "Watching 'WANTED'",
     "EXTENSIONS": [
         "cogs.events"
     ],
     "np": [
-        166692371981926400
+        956672579664506880
     ]
 }
